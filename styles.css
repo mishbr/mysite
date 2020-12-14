@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  background-color: white;
+}
+h1 {
+  font-size: 5.625rem;
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+.programmer {
+  margin-top: 10px;
+  font-weight: normal;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border: dotted gainsboro 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+p {
+  line-height: 2;
+}
+
+.mikenna {
+  height: 200px;
+}
+
+.profile {
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.skills {
+  background-color: white;
+}
+
+.programming {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  background-color: white;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.info-systems {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.bottom-container {
+padding: 50px 0 20px;
+  background-color: #66bfbf;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+
+.twitter-icon {
+  height: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.linkedin-icon {
+  height: 30px;
+}
+
+.github-icon {
+  height: 30px
+}
+
+.email-icon {
+  height: 30px;
+  padding-right: 20px;
+}
+
+.author {
+  margin-bottom: 0;
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-message {
+  margin: 40px auto 60px;
+  background-color: white;
+}
